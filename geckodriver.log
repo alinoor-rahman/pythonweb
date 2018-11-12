@@ -1,0 +1,483 @@
+1542001151990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wy6migXhvcn8"
+1542001155814	Marionette	INFO	Listening on port 42125
+1542001155960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/, line 1: TypeError: document.getElementById(...) is null
+console.error: "Error while calling actor 'pagestyle's method 'getComputed'" "node is null"
+console.error: "getComputed@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:227:5\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+console.error: "Protocol error (unknownError): node is null"
+JavaScript error: https://www.flynovoair.com/, line 1: TypeError: document.getElementById(...) is null
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 3620, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 3620, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542001395168	Marionette	INFO	Stopped listening on port 42125
+1542001397211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.77hv3l4DafUU"
+1542001400029	Marionette	INFO	Listening on port 41379
+1542001400152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1542001470253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NCLGXUcGxvBc"
+1542001473070	Marionette	INFO	Listening on port 44853
+1542001473222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 5784, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 5784, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542001504258	Marionette	INFO	Stopped listening on port 44853
+1542001506771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ItnJ70KMOsbV"
+1542001509642	Marionette	INFO	Listening on port 44023
+1542001509777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1542001590413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aTN5jLvzaODS"
+1542001593018	Marionette	INFO	Listening on port 36471
+1542001593145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1542001619690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e2ugX6Gbli5e"
+1542001622379	Marionette	INFO	Listening on port 43305
+1542001622400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.flynovoair.com/, line 1: TypeError: document.getElementById(...) is null
+1542001701798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Tc8ccyILpqPK"
+1542001704391	Marionette	INFO	Listening on port 35975
+1542001704418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1542001800192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5wDtXl7dGCJg"
+1542001802996	Marionette	INFO	Listening on port 37667
+1542001803006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1542001968983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qdXfQYhXRLcE"
+1542001971828	Marionette	INFO	Listening on port 45969
+1542001971966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 4758, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 4758, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002021010	Marionette	INFO	Stopped listening on port 41379
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 6641, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6641, Gecko_IOThread] WARNING: pipe error (113): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6641, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002022190	Marionette	INFO	Stopped listening on port 44023
+[Parent 7679, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 7679, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002023231	Marionette	INFO	Stopped listening on port 36471
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 8533, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 8533, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002024019	Marionette	INFO	Stopped listening on port 43305
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 9433, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9433, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002025304	Marionette	INFO	Stopped listening on port 35975
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 10327, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 10327, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002027204	Marionette	INFO	Stopped listening on port 37667
+1542002031366	Marionette	INFO	Stopped listening on port 45969
+1542002226335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OU4CIOMWgPWa"
+1542002229476	Marionette	INFO	Listening on port 35579
+1542002229614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.flynovoair.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox-highlighter-utils.js, line 248: Error: The ValueGrip passed could not be translated to a NodeFront
+1542002416078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GYYbSFpx1XeW"
+1542002419546	Marionette	INFO	Listening on port 33221
+1542002419598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1542002685501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1qFgXHQJSrfd"
+1542002688407	Marionette	INFO	Listening on port 44425
+1542002688558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1542002747015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vhXNMzxu31HG"
+1542002750121	Marionette	INFO	Listening on port 43127
+1542002750129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14215, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14215, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002794717	Marionette	INFO	Stopped listening on port 44425
+[Parent 13294, Gecko_IOThread] WARNING: pipe error (124): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13294, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002801473	Marionette	INFO	Stopped listening on port 33221
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12190, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002813743	Marionette	INFO	Stopped listening on port 35579
+[Parent 15080, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15080, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002819651	Marionette	INFO	Stopped listening on port 43127
+1542002855592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.15TfJw7iVCPQ"
+1542002858439	Marionette	INFO	Listening on port 43001
+1542002858572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1542002912760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1NwVvln9QTNL"
+1542002915695	Marionette	INFO	Listening on port 40129
+1542002915838	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16109, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16109, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542002921125	Marionette	INFO	Stopped listening on port 43001
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1542002944887	Marionette	INFO	Stopped listening on port 40129
+1542002980502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pOFKSwBv0U50"
+1542002983913	Marionette	INFO	Listening on port 44335
+1542002984111	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1082:3
+
+1542002996833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LkGP7T8u1aI0"
+1542002999673	Marionette	INFO	Listening on port 43141
+1542002999804	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17958, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17958, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542003006204	Marionette	INFO	Stopped listening on port 44335
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 18886, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 18886, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542003073665	Marionette	INFO	Stopped listening on port 43141
+1542003372550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oX86loF85zqj"
+1542003375431	Marionette	INFO	Listening on port 32953
+1542003375484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 19978, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 19978, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542003493466	Marionette	INFO	Stopped listening on port 32953
+1542003715117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QirztmW6qWfm"
+1542003717773	Marionette	INFO	Listening on port 45447
+1542003717909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/scripts/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 20961, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20961, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542003759735	Marionette	INFO	Stopped listening on port 45447
+1542003760419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b8v6lZveGGAU"
+1542003762957	Marionette	INFO	Listening on port 46493
+1542003763121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 21811, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 21811, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542003825995	Marionette	INFO	Stopped listening on port 46493
+1542004290348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kZx2FxBv2v5r"
+1542004293140	Marionette	INFO	Listening on port 35797
+1542004293159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.flynovoair.com/, line 1: TypeError: document.getElementById(...) is null
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+[Parent 22783, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 22783, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542004379421	Marionette	INFO	Stopped listening on port 35797
+1542005180733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Cl5iJXndgNdB"
+1542005183506	Marionette	INFO	Listening on port 35155
+1542005183547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/, line 1: TypeError: document.getElementById(...) is null
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript error: https://www.flynovoair.com/, line 1074: ReferenceError: handleEnterKey is not defined
+JavaScript error: https://www.flynovoair.com/, line 1406: TypeError: el.lightGallery is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/, line 1: TypeError: document.getElementById(...) is null
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 23939, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 23939, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542006265353	Marionette	INFO	Stopped listening on port 35155
+1542006268230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZtM1NHTt451o"
+1542006271118	Marionette	INFO	Listening on port 38715
+1542006271143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+1542006642541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T80IeAqoYRkH"
+1542006645423	Marionette	INFO	Listening on port 46233
+1542006645455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wRP, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wRP, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+[Parent 26112, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 26112, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542006705691	Marionette	INFO	Stopped listening on port 46233
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 25140, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25140, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542006707024	Marionette	INFO	Stopped listening on port 38715
+1542006769804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vyIpNubc0x51"
+1542006773068	Marionette	INFO	Listening on port 46603
+1542006773114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wPr, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+1542006806598	Marionette	INFO	Stopped listening on port 46603
+1542007390461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BZqxUwUn2YWS"
+1542007393760	Marionette	INFO	Listening on port 37725
+1542007393773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wPr, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+1542007426322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IX4i7gd8FgkS"
+1542007429213	Marionette	INFO	Listening on port 36129
+1542007429246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+[Parent 28034, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 28034, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542011010613	Marionette	INFO	Stopped listening on port 37725
+[Parent 28885, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 28885, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542011011711	Marionette	INFO	Stopped listening on port 36129
+1542011532544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JNxA0DGG6sMY"
+1542011535908	Marionette	INFO	Listening on port 33893
+1542011535958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wRP, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wRP, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+1542011560605	Marionette	INFO	Stopped listening on port 33893
+1542011697987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iwtNGYefslmR"
+1542011700848	Marionette	INFO	Listening on port 42579
+1542011700980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+[Parent 31414, Gecko_IOThread] WARNING: pipe error (117): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31414, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 31414, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542011937988	Marionette	INFO	Stopped listening on port 42579
+1542011981507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KsZXRvLT8WA0"
+1542011984330	Marionette	INFO	Listening on port 37129
+1542011984483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+[Parent 32466, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 32466, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542012014557	Marionette	INFO	Stopped listening on port 37129
+1542012582722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sCmH3HfujiDs"
+1542012585402	Marionette	INFO	Listening on port 36131
+1542012585435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wRP, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wRP, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+1542012641450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RlKJ4Zs1MhJU"
+1542012643999	Marionette	INFO	Listening on port 46297
+1542012644067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wRP, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+[Parent 2892, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542012677537	Marionette	INFO	Stopped listening on port 46297
+1542012747031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8BuFGyR542fe"
+1542012749620	Marionette	INFO	Listening on port 34219
+1542012749647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wRP, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+[Parent 3882, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 3882, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542012780042	Marionette	INFO	Stopped listening on port 34219
+1542012781192	Marionette	INFO	Stopped listening on port 36131
+1542012783329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kRAoS6c4s4rl"
+1542012786003	Marionette	INFO	Listening on port 45557
+1542012786040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wPr, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wPr, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+[Parent 4733, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542012868900	Marionette	INFO	Stopped listening on port 45557
+1542012871085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S6sQyFekamm5"
+1542012873859	Marionette	INFO	Listening on port 42097
+1542012873897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+[Parent 5585, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542012945721	Marionette	INFO	Stopped listening on port 42097
+1542012946916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RY3qgtpGJOgU"
+1542012949990	Marionette	INFO	Listening on port 41747
+1542012950031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+JavaScript warning: https://secure.flynovoair.com/bookings/static/code/jquery-1.9.0.min.js?4i2wTZ, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.flynovoair.com/assets/js/custom.js, line 13: ReferenceError: fakewaffle is not defined
+[Parent 6442, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542013040617	Marionette	INFO	Stopped listening on port 41747
